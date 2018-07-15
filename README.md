@@ -1,0 +1,1 @@
+# calc japanese text similarity
